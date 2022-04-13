@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nomadcoder_prac/static/css/main.9abf09bf.css",
+    "main.js": "/nomadcoder_prac/static/js/main.4d05a42d.js",
+    "static/js/787.fbdee6a8.chunk.js": "/nomadcoder_prac/static/js/787.fbdee6a8.chunk.js",
+    "index.html": "/nomadcoder_prac/index.html",
+    "main.9abf09bf.css.map": "/nomadcoder_prac/static/css/main.9abf09bf.css.map",
+    "main.4d05a42d.js.map": "/nomadcoder_prac/static/js/main.4d05a42d.js.map",
+    "787.fbdee6a8.chunk.js.map": "/nomadcoder_prac/static/js/787.fbdee6a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9abf09bf.css",
+    "static/js/main.4d05a42d.js"
+  ]
+}
