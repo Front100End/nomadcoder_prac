@@ -6,7 +6,7 @@ import styles from "../component/CSS/Movie.module.css";
 const Movie = ({ id, coverImg, url, title, summary, genres }) => {
   return (
     <div className={styles.movieWrap}>
-      <img className={styles.movieImg} src={coverImg} />
+      <img className={styles.movieImg} src={coverImg} alt="imgError" />
       <div className={styles.contents}>
         <h2>
           <Link className={styles.movieName} to={`/movie/${id}`}>
